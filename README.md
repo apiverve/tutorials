@@ -29,7 +29,6 @@ Each tutorial is a standalone project you can clone and run immediately.
 | [qr-generator-html-tutorial](https://github.com/apiverve/qr-generator-html-tutorial) | HTML/JS | QR Code Generator | Generate QR codes instantly |
 | [qr-reader-html-tutorial](https://github.com/apiverve/qr-reader-html-tutorial) | HTML/JS | QR Code Reader | Scan and decode QR codes from images |
 | [sentiment-dashboard-react-tutorial](https://github.com/apiverve/sentiment-dashboard-react-tutorial) | React | Sentiment Analysis | Analyze text sentiment with visualizations |
-| [seo-analyzer-python-tutorial](https://github.com/apiverve/seo-analyzer-python-tutorial) | Python/Flask | SEO Scraper | Analyze any website's SEO performance |
 | [weather-app-react-tutorial](https://github.com/apiverve/weather-app-react-tutorial) | React | Weather | Current weather lookup by city |
 
 ## Quick Start
