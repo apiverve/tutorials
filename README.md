@@ -6,11 +6,32 @@ Each tutorial is a standalone project you can clone and run immediately.
 
 ## Tutorials
 
+### Web Apps
+
+| Tutorial | Stack | API Used | Description |
+|----------|-------|----------|-------------|
+| [barcode-generator-node-tutorial](https://github.com/apiverve/barcode-generator-node-tutorial) | Node.js/Express | Barcode Generator | Generate barcodes for products |
+| [content-moderator-node-tutorial](https://github.com/apiverve/content-moderator-node-tutorial) | Node.js/Express | Profanity Filter | Filter profanity from user content |
+| [crypto-tracker-react-tutorial](https://github.com/apiverve/crypto-tracker-react-tutorial) | React | Bitcoin Price | Track Bitcoin prices in real-time |
+| [image-caption-react-tutorial](https://github.com/apiverve/image-caption-react-tutorial) | React | Image Caption | Generate intelligent captions for images |
+| [ip-lookup-nextjs-tutorial](https://github.com/apiverve/ip-lookup-nextjs-tutorial) | Next.js | IP Lookup | Get location data from any IP address |
+| [lead-validator-nextjs-tutorial](https://github.com/apiverve/lead-validator-nextjs-tutorial) | Next.js | Email Validator, Phone Number Validator | Validate leads with quality scoring |
+| [qr-generator-html-tutorial](https://github.com/apiverve/qr-generator-html-tutorial) | HTML/JS | QR Code Generator | Generate QR codes instantly |
+| [qr-reader-html-tutorial](https://github.com/apiverve/qr-reader-html-tutorial) | HTML/JS | QR Code Reader | Scan and decode QR codes from images |
+| [sentiment-dashboard-react-tutorial](https://github.com/apiverve/sentiment-dashboard-react-tutorial) | React | Sentiment Analysis | Analyze text sentiment with visualizations |
+| [social-card-generator-node-tutorial](https://github.com/apiverve/social-card-generator-node-tutorial) | Node.js/Express | HTML to Image | Generate social media share images |
+| [translator-app-vue-tutorial](https://github.com/apiverve/translator-app-vue-tutorial) | Vue | Translator | Translate text between languages |
+| [weather-app-react-tutorial](https://github.com/apiverve/weather-app-react-tutorial) | React | Weather | Current weather lookup by city |
+
 ### CLI Tools
 
 | Tutorial | Stack | API Used | Description |
 |----------|-------|----------|-------------|
 | [currency-converter-python-tutorial](https://github.com/apiverve/currency-converter-python-tutorial) | Python | Exchange Rate | Convert between 150+ currencies |
+| [dns-lookup-go-tutorial](https://github.com/apiverve/dns-lookup-go-tutorial) | Go | DNS Lookup | Look up DNS records for domains |
+| [ocr-scanner-python-tutorial](https://github.com/apiverve/ocr-scanner-python-tutorial) | Python | Image to Text | Extract text from images with OCR |
+| [ssl-checker-python-tutorial](https://github.com/apiverve/ssl-checker-python-tutorial) | Python | SSL Certificate Checker | Check SSL certificate validity |
+| [whois-lookup-python-tutorial](https://github.com/apiverve/whois-lookup-python-tutorial) | Python | WHOIS Lookup | Look up domain registration info |
 
 ### Backend
 
@@ -18,18 +39,6 @@ Each tutorial is a standalone project you can clone and run immediately.
 |----------|-------|----------|-------------|
 | [email-validator-node-tutorial](https://github.com/apiverve/email-validator-node-tutorial) | Node.js/Express | Email Validator | Validate email addresses via API |
 | [invoice-generator-node-tutorial](https://github.com/apiverve/invoice-generator-node-tutorial) | Node.js/Express | Invoice Generator | Generate PDF invoices instantly |
-
-### Web Apps
-
-| Tutorial | Stack | API Used | Description |
-|----------|-------|----------|-------------|
-| [image-caption-react-tutorial](https://github.com/apiverve/image-caption-react-tutorial) | React | Image Caption | Generate intelligent captions for images |
-| [ip-lookup-nextjs-tutorial](https://github.com/apiverve/ip-lookup-nextjs-tutorial) | Next.js | IP Lookup | Get location data from any IP address |
-| [lead-validator-nextjs-tutorial](https://github.com/apiverve/lead-validator-nextjs-tutorial) | Next.js | Email Validator, Phone Number Validator | Validate leads with quality scoring |
-| [qr-generator-html-tutorial](https://github.com/apiverve/qr-generator-html-tutorial) | HTML/JS | QR Code Generator | Generate QR codes instantly |
-| [qr-reader-html-tutorial](https://github.com/apiverve/qr-reader-html-tutorial) | HTML/JS | QR Code Reader | Scan and decode QR codes from images |
-| [sentiment-dashboard-react-tutorial](https://github.com/apiverve/sentiment-dashboard-react-tutorial) | React | Sentiment Analysis | Analyze text sentiment with visualizations |
-| [weather-app-react-tutorial](https://github.com/apiverve/weather-app-react-tutorial) | React | Weather | Current weather lookup by city |
 
 ## Quick Start
 
